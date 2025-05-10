@@ -1,6 +1,9 @@
 # XF300-A
 Сборник доработок для мотоцикла Motoland Legend 250/300
 
+[Официальная инструкция](https://motoland-russia.ru/assets/files/%D0%BC%D0%BE%D1%82%D0%BE%D1%86%D0%B8%D0%BA%D0%BB%D1%8B%202017.doc)
+
+
 
 ## Ссылки на группы, в которых можно свободно задать интересующий вопрос
 
@@ -9,6 +12,7 @@
 WhatsApp: [https://chat.whatsapp.com/Lama8b4aDou2XF9Fweli6e](https://chat.whatsapp.com/Lama8b4aDou2XF9Fweli6e)
 
 ВК: [https://vk.com/club225106955](https://vk.com/club225106955)
+
 
 
 ## Основные разделы:
@@ -22,6 +26,7 @@ WhatsApp: [https://chat.whatsapp.com/Lama8b4aDou2XF9Fweli6e](https://chat.whatsa
 7. [Доработки двигателя и КПП](https://github.com/coprolitebbs/XF300-A/tree/main/Engine)
 8. [Доработки выхлопной системы](https://github.com/coprolitebbs/XF300-A/tree/main/Exhaust)
 9. [Прочий тюнинг](https://github.com/coprolitebbs/XF300-A/tree/main/Other)
+    
 
 ## Основные параметры <a name="motoparams"></a>
 
