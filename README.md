@@ -8,18 +8,23 @@
 
 WhatsApp: [https://chat.whatsapp.com/Lama8b4aDou2XF9Fweli6e](https://chat.whatsapp.com/Lama8b4aDou2XF9Fweli6e)
 
-ВК: 
+ВК: [https://vk.com/club225106955](https://vk.com/club225106955)
 
 
 ## Основные разделы:
 
-1. [Доработки подвески](https://github.com/coprolitebbs/XF300-A/tree/main/Suspension)
-2. [Доработки цепи, звезд](https://github.com/coprolitebbs/XF300-A/tree/main/Chain)
-3. [Доработки впускной системы и карбюратора](https://github.com/coprolitebbs/XF300-A/tree/main/Carburator)
-4. [Доработки связанные с шинами и колесными дисками](https://github.com/coprolitebbs/XF300-A/tree/main/Tires)
-5. [Доработки электрики и света](https://github.com/coprolitebbs/XF300-A/tree/main/Electricity)
-6. [Доработки двигателя и КПП](https://github.com/coprolitebbs/XF300-A/tree/main/Engine)
-7. [Доработки выхлопной системы](https://github.com/coprolitebbs/XF300-A/tree/main/Exhaust)
-8. [Прочий тюнинг](https://github.com/coprolitebbs/XF300-A/tree/main/Other)
+1. [Основные параметры](#motoparams)
+2. [Доработки подвески](https://github.com/coprolitebbs/XF300-A/tree/main/Suspension)
+3. [Доработки цепи, звезд](https://github.com/coprolitebbs/XF300-A/tree/main/Chain)
+4. [Доработки впускной системы и карбюратора](https://github.com/coprolitebbs/XF300-A/tree/main/Carburator)
+5. [Доработки связанные с шинами и колесными дисками](https://github.com/coprolitebbs/XF300-A/tree/main/Tires)
+6. [Доработки электрики и света](https://github.com/coprolitebbs/XF300-A/tree/main/Electricity)
+7. [Доработки двигателя и КПП](https://github.com/coprolitebbs/XF300-A/tree/main/Engine)
+8. [Доработки выхлопной системы](https://github.com/coprolitebbs/XF300-A/tree/main/Exhaust)
+9. [Прочий тюнинг](https://github.com/coprolitebbs/XF300-A/tree/main/Other)
 
+## Основные параметры <a name="motoparams"></a>
 
+* Объем 249сс для двигателя 172FMM / 270сс для двигателя 175FMM
+* Топливо АИ92 / АИ95
+* Вес 123 кг (скорее всего, сухой)
