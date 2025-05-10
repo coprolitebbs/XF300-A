@@ -13,13 +13,13 @@ WhatsApp:
 
 ## Основные разделы:
 
-1. [Доработки подвески](https://github.com/coprolitebbs/XF300-A/Suspension/README.md)
-2. [Доработки цепи, звезд](https://github.com/coprolitebbs/XF300-A/Chain/README.md)
-3. [Доработки впускной системы и карбюратора](https://github.com/coprolitebbs/XF300-A/Carburator/README.md)
-4. [Доработки связанные с шинами и колесными дисками](https://github.com/coprolitebbs/XF300-A/Tires/README.md)
-5. [Доработки электрики и света](https://github.com/coprolitebbs/XF300-A/Electricity/README.md)
-6. [Доработки двигателя и КПП](https://github.com/coprolitebbs/XF300-A/Engine/README.md)
-7. [Доработки выхлопной системы](https://github.com/coprolitebbs/XF300-A/Exhaust/README.md)
-8. [Прочий тюнинг](https://github.com/coprolitebbs/XF300-A/Other/README.md)
+1. [Доработки подвески](https://github.com/coprolitebbs/XF300-A/tree/main/Suspension)
+2. [Доработки цепи, звезд](https://github.com/coprolitebbs/XF300-A/tree/main/Chain)
+3. [Доработки впускной системы и карбюратора](https://github.com/coprolitebbs/XF300-A/tree/main/Carburator)
+4. [Доработки связанные с шинами и колесными дисками](https://github.com/coprolitebbs/XF300-A/tree/main/Tires)
+5. [Доработки электрики и света](https://github.com/coprolitebbs/XF300-A/tree/main/Electricity)
+6. [Доработки двигателя и КПП](https://github.com/coprolitebbs/XF300-A/tree/main/Engine)
+7. [Доработки выхлопной системы](https://github.com/coprolitebbs/XF300-A/tree/main/Exhaust)
+8. [Прочий тюнинг](https://github.com/coprolitebbs/XF300-A/tree/main/Other)
 
 
