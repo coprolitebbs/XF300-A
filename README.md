@@ -6,7 +6,7 @@
 
 ТГ: [https://t.me/mot0land_1egend](https://t.me/mot0land_1egend)
 
-WhatsApp: 
+WhatsApp: [https://chat.whatsapp.com/Lama8b4aDou2XF9Fweli6e](https://chat.whatsapp.com/Lama8b4aDou2XF9Fweli6e)
 
 ВК: 
 
