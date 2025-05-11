@@ -36,4 +36,4 @@
 
 [Впускной патрубок](https://ozon.ru/t/pTeIJqZ)
 
-![Установленный pe28](/img/pe28.jpg)
+![Установленный pe28](https://github.com/coprolitebbs/XF300-A/blob/main/Carburator/img/pe28.jpg)
