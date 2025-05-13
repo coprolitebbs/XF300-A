@@ -13,3 +13,7 @@
 ## Размеры стандартной флейты в картинках <a name="fleyta"></a>
 
 ![Стандартная флейта](img/6BRfuQ0lqMk.jpg)
+![Стандартная флейта](img/9YFMrTfb4iQ.jpg)
+![Стандартная флейта](img/DdW2Xffljrk.jpg)
+![Стандартная флейта](img/H7hoU5NA2aA.jpg)
+![Стандартная флейта](img/Ul_o0EgzA24.jpg)
