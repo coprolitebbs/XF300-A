@@ -16,3 +16,4 @@
 ## Пример замены покрышек на Mitas <a name="mitas"></a>
 [Задняя на Озоне](https://ozon.ru/t/j9w0y20)
 [Передняя на Озоне](https://ozon.ru/t/RdQBOic)
+![Пример](img/mC015Pkrbc4.jpg)
