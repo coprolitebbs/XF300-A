@@ -18,4 +18,4 @@
 
 [Передняя на Озоне](https://ozon.ru/t/RdQBOic)
 
-![Пример]( img/mC015Pkrbc4.jpg = 250x ) 
+![Пример]( img/mC015Pkrbc4.jpg width="250" ) 
