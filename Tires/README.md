@@ -18,4 +18,4 @@
 
 [Передняя на Озоне](https://ozon.ru/t/RdQBOic)
 
-<a href="img/mC015Pkrbc4.jpg"><img src="img/mC015Pkrbc4.jpg" width=50% height=50%></a>
+<a href="img/mC015Pkrbc4.jpg"><img src="img/mC015Pkrbc4.jpg" width=30% height=30%></a>
