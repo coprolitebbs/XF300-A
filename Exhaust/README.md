@@ -12,8 +12,8 @@
 
 ## Размеры стандартной флейты в картинках <a name="fleyta"></a>
 
-![Стандартная флейта](img/6BRfuQ0lqMk.jpg)
-![Стандартная флейта](img/9YFMrTfb4iQ.jpg)
-![Стандартная флейта](img/DdW2Xffljrk.jpg)
-![Стандартная флейта](img/H7hoU5NA2aA.jpg)
-![Стандартная флейта](img/Ul_o0EgzA24.jpg)
+<a href="img/6BRfuQ0lqMk.jpg"><img src="img/6BRfuQ0lqMk.jpg" width=30% height=30%></a>
+<a href="img/9YFMrTfb4iQ.jpg"><img src="img/9YFMrTfb4iQ.jpg" width=30% height=30%></a>
+<a href="img/DdW2Xffljrk.jpg"><img src="img/DdW2Xffljrk.jpg" width=30% height=30%></a>
+<a href="img/H7hoU5NA2aA.jpg"><img src="img/H7hoU5NA2aA.jpg" width=30% height=30%></a>
+<a href="img/Ul_o0EgzA24.jpg"><img src="img/Ul_o0EgzA24.jpg" width=30% height=30%></a>
