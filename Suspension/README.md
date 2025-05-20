@@ -20,7 +20,7 @@
 
 ## Замена сайлентблоков маятника <a name="silents"></a>
 
-Сайлентблоки на [Озоне](https://ozon.ru/t/yt7yEZA), Втулка проставочная на [Wildberries](https://www.wildberries.ru/catalog/255780442/detail.aspx)
+Сайлентблоки на [Озоне](https://ozon.ru/t/yt7yEZA), Втулка проставочная на [Wildberries](https://www.wildberries.ru/catalog/255780442/detail.aspx) или в другом [магазине](https://scooter-online.ru/catalog/zapchasti_dlya_kvadrotsiklov_50_250ss_proizvodstva_kitay_1/mayatnik_os_mayatnika/os_mayatnika_vtulka_mayatnika/vtulka_osi_mayatnika_19kh14kh252_atv150_200.html)
 
 Многие так же жалуются на странный неподходящий диаметр проставвочной втулки. Втулку подходящего диаметра можно выточить по размерам на схеме:
 
