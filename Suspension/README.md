@@ -23,4 +23,5 @@
 Сайлентблоки на [Озоне](https://ozon.ru/t/yt7yEZA), [Wildberries](https://www.wildberries.ru/catalog/255780442/detail.aspx)
 
 Многие так же жалуются на странный неподходящий диаметр распорной втулки. Втулку подходящего диаметра можно выточить по размерам на схеме:
-<a href="img/Y86JkFEcwPOg_cJ5VNYtLS31EY7XsEgg_Kpd5nZOBj0K8aOrYJFsMZvD4alSbIZC2XbawlDZW9_n27Q53V7nEv3K.jpg"><img src="img/Y86JkFEcwPOg_cJ5VNYtLS31EY7XsEgg_Kpd5nZOBj0K8aOrYJFsMZvD4alSbIZC2XbawlDZW9_n27Q53V7nEv3K.jpg.jpg" width=30% height=30%></a>
+
+<a href="img/Y86JkFEcwPOg_cJ5VNYtLS31EY7XsEgg_Kpd5nZOBj0K8aOrYJFsMZvD4alSbIZC2XbawlDZW9_n27Q53V7nEv3K.jpg"><img src="img/Y86JkFEcwPOg_cJ5VNYtLS31EY7XsEgg_Kpd5nZOBj0K8aOrYJFsMZvD4alSbIZC2XbawlDZW9_n27Q53V7nEv3K.jpg" width=30% height=30%></a>
