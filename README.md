@@ -21,7 +21,7 @@ WhatsApp: [https://chat.whatsapp.com/Lama8b4aDou2XF9Fweli6e](https://chat.whatsa
 2. [Доработки подвески](https://github.com/coprolitebbs/XF300-A/tree/main/Suspension)
 3. [Доработки цепи, звезд, замена слайдера](https://github.com/coprolitebbs/XF300-A/tree/main/Chain)
 4. [Доработки впускной системы и карбюратора](https://github.com/coprolitebbs/XF300-A/tree/main/Carburator)
-5. [Доработки связанные с шинами и колесными дисками](https://github.com/coprolitebbs/XF300-A/tree/main/Tires)
+5. [Доработки связанные с колесами и тормозами](https://github.com/coprolitebbs/XF300-A/tree/main/Tires)
 6. [Доработки электрики и света](https://github.com/coprolitebbs/XF300-A/tree/main/Electricity)
 7. [Доработки двигателя и КПП](https://github.com/coprolitebbs/XF300-A/tree/main/Engine)
 8. [Доработки выхлопной системы](https://github.com/coprolitebbs/XF300-A/tree/main/Exhaust)
