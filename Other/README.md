@@ -14,6 +14,7 @@
 
 ## Заглушки для отверстий под гайки сидушки <a name="zagg"></a>
 Приобретаются, например, на [Озоне](https://ozon.ru/t/wiqHn6r) и позволяют закрыть отверстия от попадания летящей снизу грязи.
+
 <a href="img/PZEFZDzdsodntfQUXcCfYWwdknWsEt3foXoeScie7shM50g33gNAnEGpAR7YQDrprBGGpTqoEA1RhpoJc16ONfoW.jpg"><img src="img/PZEFZDzdsodntfQUXcCfYWwdknWsEt3foXoeScie7shM50g33gNAnEGpAR7YQDrprBGGpTqoEA1RhpoJc16ONfoW.jpg" width=30% height=30%></a>
 <a href="img/Z7-ngBcoOqRn8e4-kAgPbeB13w_5nInfqi_9yxC7u4ljaQuvfh0QTwbaUDrSH0lh7fwuPVlrHhE2p6vl_bElxlD9.jpg"><img src="img/Z7-ngBcoOqRn8e4-kAgPbeB13w_5nInfqi_9yxC7u4ljaQuvfh0QTwbaUDrSH0lh7fwuPVlrHhE2p6vl_bElxlD9.jpg" width=30% height=30%></a>
 
