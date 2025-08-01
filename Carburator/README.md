@@ -52,7 +52,7 @@
 
 [Карбюратор на озоне](https://ozon.ru/t/dht716c)
 
-[Впускной патрубок](https://ozon.ru/t/pTeIJqZ)
+[Впускной патрубок](https://ozon.ru/t/zDVqZgG)
 
 
 ## Замена воздушного фильтра <a name="filter"></a>
