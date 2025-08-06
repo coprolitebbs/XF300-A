@@ -5,7 +5,7 @@
 1. [Параметры по умолчанию](#params)
 2. [Заглушки для отверстий под гайки сидушки](#zagg)
 3. [Варианты установки кофров](#sidebags)
-
+4. [Боковые резинки крепления бака](#canm)
 
 ## Параметры по умолчанию <a name="params"></a>
 
@@ -30,3 +30,7 @@
 <a href="img/o_z0baRKQhk.jpg"><img src="img/o_z0baRKQhk.jpg" width=30% height=30%></a>
 <a href="img/Y5YVCP_7ymVzjoerg0-ZOI6xvaGnpzC3B2X7b4W9QH9tqpK9bWgLjk3F9hzTQeLslABZ1kNj9nGwCKzJhj7ZjuH1.jpg"><img src="img/Y5YVCP_7ymVzjoerg0-ZOI6xvaGnpzC3B2X7b4W9QH9tqpK9bWgLjk3F9hzTQeLslABZ1kNj9nGwCKzJhj7ZjuH1.jpg" width=30% height=30%></a>
 
+
+## Боковые резинки крепления бака <a name="canm"></a>
+Терять не рекомендуется, оригинальных отдельно не купить.
+Можно взять от Альфы, например, [здесь](https://ozon.ru/t/Mu2MfEN).
