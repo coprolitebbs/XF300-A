@@ -13,6 +13,7 @@ WhatsApp: [https://chat.whatsapp.com/Lama8b4aDou2XF9Fweli6e](https://chat.whatsa
 
 ВК: [https://vk.com/club225106955](https://vk.com/club225106955)
 
+Канал на Rutube: [https://rutube.ru/plst/429190/](https://rutube.ru/plst/429190/)
 
 
 ## Основные разделы:
