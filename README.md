@@ -36,3 +36,4 @@ WhatsApp: [https://chat.whatsapp.com/Lama8b4aDou2XF9Fweli6e](https://chat.whatsa
 * Вес 123 кг (скорее всего, сухой)
 * Высота по седлу 86см
 * Дорожный просвет 30см
+* Штатный руль диаметрами 22/28
