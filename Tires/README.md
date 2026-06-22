@@ -17,8 +17,8 @@
 3. Задние колодки на [Озоне](https://ozon.ru/t/pThse8C)
 
 ## Пример замены покрышек на Mitas <a name="mitas"></a>
-[Задняя на Озоне](https://ozon.ru/t/j9w0y20)
+[Передняя на Озоне](https://ozon.ru/t/j9w0y20)
 
-[Передняя на Озоне](https://ozon.ru/t/RdQBOic)
+[Задняя на Озоне](https://ozon.ru/t/RdQBOic)
 
 <a href="img/mC015Pkrbc4.jpg"><img src="img/mC015Pkrbc4.jpg" width=30% height=30%></a>
